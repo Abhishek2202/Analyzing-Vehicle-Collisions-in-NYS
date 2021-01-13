@@ -1,0 +1,10 @@
+wget
+psycopg2
+psycopg2.extras
+pymongo
+sqlalchemy
+simplejson
+numpy
+pandas
+csv
+io
